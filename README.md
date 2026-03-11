@@ -333,3 +333,4 @@ The `DELIVERED` status exists in the data model and UI, but the current gateway 
 10. **Audit trail** -- Log every status change with timestamps for compliance
 11. **Rate limit UI** -- Dashboard control for changing send rate without restarting
 12. **Notification on failure** -- Alert the user via email/push when a message permanently fails
+13. **GitHub Actions + basic deployment** -- Set up CI (lint, test, build) and deploy a basic version of the app for this assessment
